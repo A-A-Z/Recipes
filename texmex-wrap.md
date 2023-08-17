@@ -16,6 +16,7 @@
   - Garlic
   - Avocado
   - Tomatoes
+  - Chili pepper (large)
   - Coriander
 - Spice
   - Cumin
